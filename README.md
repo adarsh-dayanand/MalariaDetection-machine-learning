@@ -6,4 +6,5 @@ Download the images for the data-set from Kaggle: https://www.kaggle.com/iarunav
 Download the images from the above link.
 
 Step 1: Run the malaria1.py file. It creates dataset.csv file.
+
 Step 2: Run malaria_classification.py file to generate the result using random forest classifier algorithm and predict whether the         patient is infected or not. 
